@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Fpga_projects/comparator/comparator.srcs/sources_1/new/comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_2bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Fpga_projects/comparator/comparator.srcs/sim_1/new/comparator_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_2bit_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Fpga_projects/comparator/comparator.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
