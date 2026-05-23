@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Fpga_projects/mux8to1/mux8to1.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Fpga_projects/mux8to1/mux8to1.srcs/sim_1/new/mux8to1_tb.v,1779424885,verilog,,,,mux8to1_tb,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Fpga_projects/mux8to1/mux8to1.srcs/sources_1/new/mux8to1.v,1779424686,verilog,,C:/Fpga_projects/mux8to1/mux8to1.srcs/sim_1/new/mux8to1_tb.v,,mux8to1,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
